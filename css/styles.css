@@ -37,3 +37,7 @@ body {
 .navbar-dark{
     background: #512DAB;
 }
+
+a{
+    color: aliceblue;
+}
