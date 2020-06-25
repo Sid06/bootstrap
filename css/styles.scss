@@ -74,3 +74,23 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+#reserveModal{
+    #head{
+        background-color: $background-dark;
+    }
+    #body
+    {
+        background-color: $background-light;
+    }
+}
+
+#loginModal{
+    #head{
+        background-color: $background-dark;
+    }
+    #body
+    {
+        background-color: $background-light;
+    }
+}
